@@ -1,3 +1,0 @@
-[submodule "chapter5/datasets/nsl-kdd"]
-	path = chapter5/datasets/nsl-kdd
-	url = https://github.com/jmnwong/NSL-KDD-Dataset
