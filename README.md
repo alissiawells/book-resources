@@ -1,29 +1,49 @@
-# Machine Learning and Security: Protecting Systems with Data and Algorithms
-by Clarence Chio and‎ David Freeman (Authors), published by O'Reilly Media
+# This repository contains resourses dedicated to Cybersecurity & Machine Learning primarly.
 
-[Visit Website](https://mlsec.net/) | [Purchase on Amazon](https://amzn.to/2FmVDYQ) | [Read on O'Reilly Safari](http://shop.oreilly.com/product/0636920065555.do)
+## BOOKS
 
-This repository contains accompanying resources, exercises, datasets, and sample code for the Machine Learning and Security book released in Feb 2018.
-
+### 1. Machine Learning and Security: Protecting Systems with Data and Algorithms
+published by O'Reilly Media
 <img src="mlsec-cover-oreilly.jpg" width="50%" height="50%">
 
-## Dependencies
+### 2. The Site Reliability Workbook
+published by O'Reilly Media
+<img src="websec.jpg" width="50%" height="50%">
 
-### System packages
-* Python 3.6+
-* Spark 2.2.0 (Pre-built for Apache Hadoop 2.7 and later)
+### 3. Python Forensics
 
-### Python packages
-* pandas 0.20.2
-* matplotlib 2.1.0
-* seaborn 0.8.1
-* numpy 1.13.3
-* scikit-learn 0.19.1
-* nltk 3.2.5
-* datasketch 1.2.5
-* tensorflow 1.4.0
-* keras 2.1.1
-* pyflux 0.4.15
-* imbalanced-learn 0.3.1
-* spark-sklearn 0.2.3
-* lime 0.1.1.21
+### 4. Beam - a book about Erlang's concurrency model, showing concept of asynchronous messages, different from the one choosen by Guido for Python 
+
+
+## ARTICLES
+
+### 1. How Shall We Play a Game?: A Game-theoretical Model for Cyber-warfare Games
+Application of game theory toward the augmentation of the human decision-making process
+
+### 2. Моделирование информационного противоборства в социальных сетях на основе теории игр и динамических байесовских сетей
+
+### 3. Нейросетевой подход к задаче иерархического представления компьютерной сети
+
+### 4. Game Theory & ML for self-adapted Honeypots (dissertation)
+
+
+## SLIDES
+
+### 1. RoVe: устойчивые к шуму устойчивые вектора слов (spBDSM 2018)
+Валентин Малых из Лаборатории глубокого обучения и нейронных сетей МФТИ реализовал устойчивые к шуму векторные представления слов на Keras без C++ и параллельности:
+https://gitlab.com/madrugado/robust-w2v
+Код академический, нужны рефакторинг, API, документация
+
+### 2. A Hacker's Guide to securing Python Web Applications (from Moscow Python Conf++ 2018)
+
+### 3. Антиспуфинг в биометрических системах (spBDSM 2018)
+
+
+## LINKS
+
+### 1. ICC 2018
+translations: https://icc.moscow/translyatsii.html
+program: https://icc.moscow/Full-Program-with-speakers-5-6-July.Ru.pdf
+
+### 2. Arcticles from conferences on NLP: 
+http://nlp.rusvectores.org/ru/
