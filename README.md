@@ -18,8 +18,10 @@ Interesting architecture solutions
 #### 3. Python Forensics
 
 
-#### 4. BEAM - a book about Erlang' concurrency model, showing the concept of 
-#### asynchronous messages, different from the one choosen by Guido for Python 
+#### 4. Erlang Runtime System
+A book about BEAM and Erlang' concurrency model, showing the concept of 
+
+asynchronous messages, different from the one choosen by Guido for Python 
 
 
 ## ARTICLES
