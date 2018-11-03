@@ -3,14 +3,14 @@
 ## BOOKS
 
 ### 1. Machine Learning and Security: Protecting Systems with Data and Algorithms
-published by O'Reilly Media
 <img src="mlsec-cover-oreilly.jpg" width="50%" height="50%">
 
+
 ### 2. The Site Reliability Workbook
-published by O'Reilly Media
 <img src="websec.jpg" width="50%" height="50%">
 
 ### 3. Python Forensics
+
 
 ### 4. Beam - a book about Erlang's concurrency model, showing concept of asynchronous messages, different from the one choosen by Guido for Python 
 
