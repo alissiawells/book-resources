@@ -18,7 +18,7 @@ Interesting architecture solutions
 #### 3. Python Forensics
 
 
-#### 4. Beam - a book about Erlang's concurrency model, showing the concept of 
+#### 4. BEAM - a book about Erlang' concurrency model, showing the concept of 
 #### asynchronous messages, different from the one choosen by Guido for Python 
 
 
@@ -38,8 +38,11 @@ Application of game theory toward the augmentation of the human decision-making 
 
 #### 1. RoVe: устойчивые к шуму устойчивые вектора слов (spBDSM 2018)
 Валентин Малых из Лаборатории глубокого обучения и нейронных сетей МФТИ 
+
 реализовал алгоритм на Keras без C++ и  параллельности:
+
 https://gitlab.com/madrugado/robust-w2v
+
 Но код академический, нужны рефакторинг, API, документация
 
 #### 2. A Hacker's Guide to securing Python Web Applications (from Moscow Python Conf++ 2018)
