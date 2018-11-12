@@ -1,4 +1,7 @@
-# This repository contains resourses dedicated to Cybersecurity & Machine Learning primarly.
+# InfoSec, ML, NLP, CS
+### Primarly on the topic of Cybersecurity & Machine Learning
+
+Natual Language Processing for Forensics, especially authorship identification, is on the folder NLP4F
 
 ## BOOKS
 </n>
