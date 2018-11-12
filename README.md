@@ -42,13 +42,9 @@ Application of game theory toward the augmentation of the human decision-making 
 ## SLIDES
 
 #### 1. RoVe: устойчивые к шуму устойчивые вектора слов (spBDSM 2018)
-Валентин Малых из Лаборатории глубокого обучения и нейронных сетей МФТИ 
-
-реализовал алгоритм на Keras без C++ и  параллельности:
+реализация алгоритма на Keras без C++ и  параллельности:
 
 https://gitlab.com/madrugado/robust-w2v
-
-Но код академический, нужны рефакторинг, API, документация
 
 #### 2. A Hacker's Guide to securing Python Web Applications (from Moscow Python Conf++ 2018)
 
