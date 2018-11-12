@@ -64,3 +64,6 @@ https://gitlab.com/madrugado/robust-w2v
 
 #### 2. Arcticles from conferences on NLP: 
 * http://nlp.rusvectores.org/ru/
+* https://www.semanticscholar.org
+* https://arxiv.org
+* https://www.researchgate.net
