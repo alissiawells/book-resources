@@ -63,3 +63,7 @@ https://gitlab.com/madrugado/robust-w2v
 * https://www.semanticscholar.org
 * https://arxiv.org
 * https://www.researchgate.net
+
+#### 3. Forensic linguistics
+(cross-domain authorship attribution, style change detecion, bot & gender profiling, celebrity profiling)
+* https://pan.webis.de/
