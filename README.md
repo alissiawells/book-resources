@@ -67,3 +67,6 @@ https://gitlab.com/madrugado/robust-w2v
 #### 3. Forensic linguistics
 (cross-domain authorship attribution, style change detecion, bot & gender profiling, celebrity profiling)
 * https://pan.webis.de/
+
+#### 4. Best Practices for ML Engineering 
+http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf 
